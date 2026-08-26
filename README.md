@@ -1,13 +1,22 @@
-<h1 align="center">Hi 👋, I'm Abhishek Gupta</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | Java | DSA | AI Integration</h3>
 
 <p align="center">
-  <img src="./banner.png" width="100%" />
+  <img src="./banner.png" alt="Abhishek Gupta Profile Banner" width="100%">
+</p>
+
+<h1 align="center">Hi, I'm Abhishek Gupta 👋</h1>
+
+<h3 align="center">Full-Stack Developer (MERN) | AI Integration</h3>
+
+<p align="center">
+  Building scalable solutions and solving real-world problems.
 </p>
 
 <p align="center">
-🚀 Building Scalable MERN Apps | 💡 Solving Real Problems | 🤖 AI Integration
+  <a href="https://github.com/codebyabhi195">GitHub</a> •
+  <a href="https://www.linkedin.com/in/abhishekguptatit">LinkedIn</a> •
+  <a href="mailto:codebyabhi195@gmail.com">Email</a>
 </p>
+
 
 ---
 
