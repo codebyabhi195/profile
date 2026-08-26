@@ -56,11 +56,11 @@
 
 ---
 
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyabhi195&theme=tokyo-night" />
-</p>
+## 📊 Activity Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyabhi195&theme=react-dark&hide_border=true" />
+</p>
 ---
 
 ## 🐍 Contribution Snake
