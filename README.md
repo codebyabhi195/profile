@@ -1,105 +1,76 @@
-# 👋 Hi, I'm Abhishek Gupta
+<h1 align="center">Hi 👋, I'm Abhishek Gupta</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN | Java | DSA | AI Integration</h3>
 
 <p align="center">
-  <img src="./banner.png" width="100%">
+  <img src="./banner.png" alt="banner" width="100%" />
 </p>
 
 ---
 
-## 🌌 About Me
+## 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Engineer;Full+Stack+Developer;Java+Developer;DSA+Learner🚀">
-</p>
-
-- 💻 Passionate about coding  
-- 🚀 Learning Java, DSA & Web Development  
-- 🎯 Goal: Become Full Stack Developer  
-- 🔥 Building projects consistently  
+- 🎓 B.Tech CSE (2026)
+- 💻 Passionate about building scalable web apps
+- 🔥 Strong in MERN Stack & Problem Solving
+- 🤖 Exploring AI Integration in Web Apps
+- 📍 Bangalore, India
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github" />
 </p>
-
----
-
-## 🚀 Projects
-
-<p align="center">
-
-<a href="https://github.com/codebyabhi195/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codebyabhi195&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117">
-</a>
-
-<a href="https://github.com/codebyabhi195/java-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codebyabhi195&repo=java-project&theme=tokyonight&hide_border=true&bg_color=0D1117">
-</a>
-
-<a href="https://github.com/codebyabhi195/todo-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codebyabhi195&repo=todo-app&theme=tokyonight&hide_border=true&bg_color=0D1117">
-</a>
-
-</p>
-
-⚠️ Replace repo names if different:
-- portfolio  
-- java-project  
-- todo-app  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebyabhi195&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyabhi195&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyabhi195&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyabhi195&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 📈 Top Languages
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codebyabhi195&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyabhi195&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+### 🔹 LibraryStream India
+👉 Online library platform  
+👉 Built using HTML, CSS, JS  
+
+### 🔹 Promblem (DSA Practice)
+👉 Java-based problem solving repo  
+👉 Focused on DSA & logic building  
+
+---
+
+## 🏆 Achievements
+
+- 💡 Strong foundation in DSA
+- 🚀 Building real-world projects
+- 📈 Active GitHub learner
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/codebyabhi195">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
+  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
 
-## 👀 Profile Views
+## ⚡ Fun Fact
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codebyabhi195&color=blueviolet&style=flat">
-</p>
-
----
-
-## 💡 Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-</p>
+💡 I turn ideas into real-world applications 🚀
