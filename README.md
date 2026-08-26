@@ -64,8 +64,9 @@
 ---
 
 ## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codebyabhi195/profile/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/codebyabhi195/codebyabhi195/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
