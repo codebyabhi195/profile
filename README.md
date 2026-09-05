@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/codebyabhi195">GitHub</a> •
   <a href="https://www.linkedin.com/in/abhishekguptatit">LinkedIn</a> •
-  <a href="mailto:codebyabhi195@gmail.com">Email</a>
+  <a href="mailto:abhishekkrguptatit@gmail.com">Email</a>
 </p>
 
 
